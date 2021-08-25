@@ -22,6 +22,6 @@ let package = Package(
                 "AssistSDK",
                 .product(name: "ACBClientSDK", package: "ACBClientSDK")
             ]),
-        .binaryTarget(name: "AssistSDK", url: "https://objc-sdk.s3.us-east-2.amazonaws.com/live_assist_sdk/assist_sdk/AssistSDK-1.64.6.xcframework.zip", checksum: "cf2b96e61c2f3e1561f87f8b610f998ac679356fdf4555cafee52320e52046d7")
+        .binaryTarget(name: "AssistSDK", url: "https://objc-sdk.s3.us-east-2.amazonaws.com/live_assist_sdk/assist_sdk/AssistSDK-1.64.8.xcframework.zip", checksum: "d2dc92c951902f7dbb1612c8eafc21fc4380ebba8885aa6f28e13667c3093334")
     ]
 )
