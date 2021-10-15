@@ -13,7 +13,7 @@ let package = Package(
             targets: ["LASDK"]),
     ],
     dependencies: [
-        .package(name: "ACBClientSDK", url: "https://github.com/cbajapan/acb-client-sdk.git", .exact("3.3.22-rc.1.2"))
+        .package(name: "ACBClientSDK", url: "https://github.com/cbajapan/acb-client-sdk.git", .exact("3.4.0"))
     ],
     targets: [
         .target(
@@ -22,6 +22,6 @@ let package = Package(
                 "AssistSDK",
                 .product(name: "ACBClientSDK", package: "ACBClientSDK")
             ]),
-        .binaryTarget(name: "AssistSDK", url: "https://objc-sdk.s3.us-east-2.amazonaws.com/live_assist_sdk/assist_sdk/AssistSDK-1.64.8.xcframework.zip", checksum: "d2dc92c951902f7dbb1612c8eafc21fc4380ebba8885aa6f28e13667c3093334")
+        .binaryTarget(name: "AssistSDK", url: "https://objc-sdk.s3.us-east-2.amazonaws.com/live_assist_sdk/assist_sdk/AssistSDK-1.64.8-rc.1.2.xcframework.zip", checksum: "c7dbf5aab1cd70d6f38bfc1f9d1bbcfa8279f01c145cceeb36fef32b597e1058")
     ]
 )

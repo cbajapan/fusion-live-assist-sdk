@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/cbajapan/acb-client-sdk.git",
         "state": {
           "branch": null,
-          "revision": "b075428a95a2cc94d28733bd9a07709b7503f728",
-          "version": "3.3.22-rc.1.2"
+          "revision": "63d213aa561ed2222331ff73e5c4cee53dfa3c0a",
+          "version": "3.4.0"
         }
       }
     ]
