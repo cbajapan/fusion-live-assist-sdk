@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "ACBClientSDK",
-        "repositoryURL": "https://github.com/cbajapan/acb-client-sdk.git",
+        "package": "objc-fcsdk-ios",
+        "repositoryURL": "https://github.com/cbajapan/objc-fcsdk-ios.git",
         "state": {
           "branch": null,
-          "revision": "6a5e1563b7997e244461fc8c2d2a1d85fbd05b2d",
-          "version": "3.4.3"
+          "revision": "fd24b8242a46e5c1402c1eba399bdf8c8a45cb36",
+          "version": "3.4.5"
         }
       }
     ]
