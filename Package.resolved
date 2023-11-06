@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/cbajapan/objc-fcsdk-ios.git",
         "state": {
           "branch": null,
-          "revision": "fd24b8242a46e5c1402c1eba399bdf8c8a45cb36",
-          "version": "3.4.5"
+          "revision": "8b98d3f7d16a74a90a8360c1c325d2c5c09526b6",
+          "version": "3.4.6-beta1"
         }
       }
     ]
