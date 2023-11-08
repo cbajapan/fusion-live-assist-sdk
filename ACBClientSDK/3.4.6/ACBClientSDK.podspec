@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name              = 'ACBClientSDK'
-s.version           = 'ACBClientSDK'
+s.version           = '3.4.6'
 s.summary           = 'ACBClientSDK XCFramework'
 s.homepage          = 'https://github.com/cbajapan/objc-fcsdk-ios'
 
