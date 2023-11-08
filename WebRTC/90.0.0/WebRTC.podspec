@@ -11,5 +11,5 @@ s.source            = { :http => 'https://swift-sdk.s3.us-east-2.amazonaws.com/r
 
 s.platforms = { :ios => "11.0" }
 
-s.vendored_frameworks = 'WebRTC.xcframework'
+s.vendored_frameworks = 'CBARealTime.xcframework'
 end
