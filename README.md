@@ -23,7 +23,7 @@ target 'LiveAssistDemo' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for CBAFusion
+  # Pods for LiveAssistDemo
 pod 'ACBClientSDK', '~> 3.4.6'
 pod 'WebRTC', '~> 90.0.0'
 pod 'AssistSDK', '~> 1.64.13'
