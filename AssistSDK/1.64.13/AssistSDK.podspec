@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name              = 'AssistSDK'
-s.version           = 'AssistSDK'
+s.version           = '1.64.13'
 s.summary           = 'AssistSDK XCFramework'
 s.homepage          = 'https://github.com/cbajapan/fusion-live-assist-sdk'
 
